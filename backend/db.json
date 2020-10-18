@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "Sansung S20+ Ultra",
-      "price": "7520.89"
-    },
-    {
-      "name": "Lapis Preto Básico",
-      "price": "1.50",
-      "id": 4
-    },
-    {
-      "name": "Veio do form",
+      "name": "tarcio almeida lima",
       "price": "9.99",
-      "id": 6
+      "id": 7
+    },
+    {
+      "name": "heroku-sds1",
+      "price": "2222",
+      "id": 8
     }
   ]
 }
