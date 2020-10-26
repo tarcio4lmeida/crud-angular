@@ -1,10 +1,10 @@
-package com.apicrudds.backend;
+package com.angular.crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiCrudDsApplicationTests {
+class CrAngularApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.apicrudds.backend.services.exceptions;
+package com.angular.crud.services.exceptions;
 
 public class DataBaseException extends RuntimeException{
 	private static final long serialVersionUID = 1L;

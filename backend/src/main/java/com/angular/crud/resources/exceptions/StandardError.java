@@ -1,4 +1,4 @@
-package  com.apicrudds.backend.resources.exceptions;
+package com.angular.crud.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
